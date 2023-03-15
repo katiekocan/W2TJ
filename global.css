@@ -1,0 +1,139 @@
+@charset "UTF-8";
+#wrapper {
+    width: 1010px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    position: relative;
+    list-style-type: none;
+    /* [disabled]top: -200px; */
+}
+header {
+	height: 350px;
+	width: 750px;
+	align-content: center;
+	position: relative;
+	left: 142px;
+}
+
+h1{ 
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 20px;
+	position: relative;
+	top: -25px;
+}
+aside {
+	font-family: 'Pacifico', cursive;
+	font-size: 14px;
+	line-height: 20px;
+	color: #FFF;
+	float: left;
+	padding-top: 10px;
+	padding-left: 10px;
+	position: relative;
+	height: 600px;
+}
+
+#home { 
+	font-family: 'Times New Roman', "Hoefler Text", "Liberation Serif", Times, "serif";
+	font-size: 25px;
+	line-height: 30px;
+	width: 450px;
+	position: relative;
+	top: 30px;
+	color: #FFF;
+	height: auto;
+	left: 280px;
+}
+
+#level2 {
+	font-family: 'Times New Roman', "Hoefler Text", "Liberation Serif", Times, "serif";
+	font-size: 25px;
+	line-height: 30px;
+	width: 500px;
+	position: relative;
+	top: -20px;
+	color: #FFF;
+	height: auto;
+	left: 504.25px;
+	margin: 10px;
+}
+
+#level2img {
+	position: relative;
+	left: -150px;
+	top: 70px;
+}
+
+#axolotl {
+	font-family: 'Times New Roman', "Hoefler Text", "Liberation Serif", Times, "serif";
+	font-size: 25px;
+	line-height: 30px;
+	width: 500px;
+	position: relative;
+	top: -528px;
+	color: #FFF;
+	height: auto;
+	left: 504.25px;
+	margin: 10px;
+}
+
+#level3 {
+	font-family:'Times New Roman', "Hoefler Text", "Liberation Serif", Times, "serif";
+	font-size: 25px;
+	line-height: 30px;
+	position: relative;
+	color: #FFFFFF;
+}
+
+#level3img {
+	position: relative;
+	left: 142px;
+}
+
+#homebutton { 
+	border-width: 3px;
+	border-style: solid;
+	border-color: #fff;
+	padding: 0.5em;
+	text-align: center;
+	width: 200px;
+	position: relative;
+	left: 405px; 
+	color: #FFFFFF;
+	font-size: 20px;
+}
+
+footer {
+	position: relative;
+	left: -90px;
+}
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a:visited {
+	color: #96C7A3;
+}
+
+li {
+	float: left;
+	width: 168px;
+	text-align: center;
+	font-size: 24px;
+	font-family: 'Times New Roman', "Hoefler Text", "Liberation Serif", Times, "serif";
+	margin: 10px;
+	color: #FFFFFF;
+	position: relative;
+	top: 80px;
+}
+ul {
+	width: 687px;	
+	margin: auto;
+	list-style: none;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	height: 70px;
+}
